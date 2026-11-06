@@ -1,0 +1,42 @@
+[
+  {
+    "question": "等待期多久，有哪些例外？",
+    "gold": ["policy-p2-1", "policy-p2-2"]
+  },
+  {
+    "question": "单人病房的床位费怎么算？",
+    "gold": ["policy-p3-2"]
+  },
+  {
+    "question": "住院住宿费怎么算？",
+    "gold": ["policy-p3-2"]
+  },
+  {
+    "question": "保证续保期间是几年？",
+    "gold": ["policy-p8-2"]
+  },
+  {
+    "question": "保证续保期间结束后，重新投保需要走什么流程？",
+    "gold": ["policy-p8-3"]
+  },
+  {
+    "question": "既往症和保单特别约定的除外疾病，条款怎么写？",
+    "gold": ["policy-p8-3"]
+  },
+  {
+    "question": "一般医疗责任里，住院前后门急诊费用的时间范围是多久？",
+    "gold": ["policy-p5-1"]
+  },
+  {
+    "question": "知道保险事故发生后多久需要通知保险公司？",
+    "gold": ["policy-p11-3"]
+  },
+  {
+    "question": "单人病房床位费和等待期的规则与例外分别怎么规定？",
+    "gold": ["policy-p3-2", "policy-p2-1", "policy-p2-2"]
+  },
+  {
+    "question": "怎么修改手机银行登录密码？",
+    "gold": []
+  }
+]
